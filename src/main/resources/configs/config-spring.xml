@@ -90,6 +90,7 @@
             <props>
                 <!-- 配置mybatis的日志输出组件：log4j -->
                 <prop key="logImpl">LOG4J</prop>
+
                 <!-- =====加载mybatis支持redis二级缓存的配置属性值====== -->
                 <!-- 打开二级缓存，以便使用redis进行管理 -->
                 <prop key="cacheEnabled">false</prop>
@@ -125,7 +126,7 @@
                   value="sqlSessionFactory"/>
     </bean>
 
-    <!-- 注解方式配置事务：在使用事务处理的方法上添加注解 @Transactional 即可 -->
-    <tx:annotation-driven
-            transaction-manager="transactionManager"/>
+<!--    &lt;!&ndash; 注解方式配置事务：在使用事务处理的方法上添加注解 @Transactional 即可 &ndash;&gt;-->
+<!--    <tx:annotation-driven-->
+<!--            transaction-manager="transactionManager"/>-->
 </beans>
