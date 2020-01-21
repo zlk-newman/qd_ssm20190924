@@ -19,7 +19,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <!--spring 版本-->
-        <spring.version>5.1.9.RELEASE</spring.version>
+        <spring.version>5.2.3.RELEASE</spring.version>
         <!--druid 数据源版本-->
         <druid.version>1.1.20</druid.version>
         <!--mybatis 版本-->
