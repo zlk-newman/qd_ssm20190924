@@ -31,7 +31,7 @@
         <!--aspectjweaver aop插件版本-->
         <aspectjweaver.version>1.9.4</aspectjweaver.version>
         <!--log4j2的版本-->
-        <log4j2.version>2.12.1</log4j2.version>
+        <log4j2.version>2.13.2</log4j2.version>
         <!--fileupload 文件上传插件版本-->
         <fileupload.version>1.4</fileupload.version>
         <!--jackson 版本-->
