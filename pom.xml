@@ -39,7 +39,7 @@
         <!--beanutils 版本-->
         <beanutils.version>1.9.4</beanutils.version>
         <!--junit 版本-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
