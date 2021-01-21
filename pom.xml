@@ -35,7 +35,7 @@
         <!--fileupload 文件上传插件版本-->
         <fileupload.version>1.4</fileupload.version>
         <!--jackson 版本-->
-        <jackson.version>2.9.10</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
         <!--beanutils 版本-->
         <beanutils.version>1.9.4</beanutils.version>
         <!--junit 版本-->
