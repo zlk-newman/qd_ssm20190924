@@ -27,7 +27,7 @@
         <!--mybatis-spring 插件版本-->
         <mybatis-spring.version>2.0.2</mybatis-spring.version>
         <!--mysql数据库驱动版本-->
-        <mysql-driver.version>8.0.17</mysql-driver.version>
+        <mysql-driver.version>8.0.28</mysql-driver.version>
         <!--aspectjweaver aop插件版本-->
         <aspectjweaver.version>1.9.4</aspectjweaver.version>
         <!--log4j2的版本-->
